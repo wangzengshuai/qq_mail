@@ -1,6 +1,6 @@
 # 1. 模块介绍
 ## qq_email_download.py:  qq邮箱的登录模块 图片下载
-## qq_email_2.py:  qq邮箱的登录模块 图片下载
+## qq_email_2.py:  qq邮箱的登录测试
 ## imgs_tools.py:  图片处理切割工具
 ## feature.py： 图片特征提取
 ## train.py:  提供模型训练.测试
